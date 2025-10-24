@@ -27,7 +27,7 @@ Data Analyst & Full Stack Developer with 10+ years in IT. Passionate about build
 ## 🏆 Highlights
 
 - ✅ 100+ successful releases
-- ✅ 10+ years experience in IT
+- ✅ 7+ years experience in IT
 - ✅ Specialized in data analytics, web development, and cloud infrastructure
 - ✅ Active contributor to open-source projects
 
