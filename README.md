@@ -9,7 +9,7 @@
 
 ## 💼 About Me
 
-Data Analyst & Full Stack Developer with 10+ years in IT. Passionate about building scalable data solutions, web applications, and AI-driven tools. Entrepreneur & Investor focused on innovative tech.
+Data Analyst & Full Stack Developer with 5+ years in IT. Passionate about building scalable data solutions, web applications, and AI-driven tools. Entrepreneur & Investor focused on innovative tech.
 
 **Expertise:**
 
@@ -27,9 +27,9 @@ Data Analyst & Full Stack Developer with 10+ years in IT. Passionate about build
 ## 🏆 Highlights
 
 - ✅ 100+ successful releases
-- ✅ 7+ years experience in IT
+- ✅ 5+ years experience in IT
 - ✅ Specialized in data analytics, web development, and cloud infrastructure
-- ✅ Active contributor to open-source projects
+- ✅ Contributor to open-source projects
 
 ## 📌 Featured Projects
 
