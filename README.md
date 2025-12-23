@@ -1,4 +1,4 @@
-# 👋 Igor Kushneruk — Data Analyst | Full Stack Developer
+# 👋 Igor Kushneruk — AI/ML Engineer | Data Analyst | Full Stack Developer
 
 ![Location](https://img.shields.io/badge/📍_Paris-France-blue)
 ![Python](https://img.shields.io/badge/Python-Expert-green?logo=python)
@@ -9,7 +9,9 @@
 
 ## 💼 About Me
 
-Data Analyst & Full Stack Developer with 5+ years in IT. Passionate about building scalable data solutions, web applications, and AI-driven tools. Entrepreneur & Investor focused on innovative tech.
+AI/ML Engineer & Data Analyst & Full Stack Developer with 5+ years in IT. 
+Passionate about building scalable data solutions, web applications, and AI-driven tools. 
+Entrepreneur & Investor focused on innovative tech.
 
 **Expertise:**
 
@@ -28,7 +30,7 @@ Data Analyst & Full Stack Developer with 5+ years in IT. Passionate about buildi
 
 - ✅ 100+ successful releases
 - ✅ 5+ years experience in IT
-- ✅ Specialized in data analytics, web development, and cloud infrastructure
+- ✅ Specialized in AI/ML, data analytics, web development, and cloud infrastructure
 - ✅ Contributor to open-source projects
 
 ## 📌 Featured Projects
